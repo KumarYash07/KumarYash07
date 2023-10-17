@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Kumar
-- 👀 I’m student of Computer science and engineering 
+- 👀 I’m student of Btech Computer science and engineering 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yashkumar0655@gmail.com
